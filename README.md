@@ -1,16 +1,21 @@
-## Hi there 👋
+Welcome to my github 👋 
 
-<!--
-**ahmedelsewailky/ahmedelsewailky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Elsewailky, I'm a frontend web developer 5 years of experience
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+HTML
+CSS
+Javascript
+Bootstrap
+TailwindCss
+jQuery
+AplineJs
+React
+NextJs
+GulpJs
+PHP
+MySQL
+Laravel
+Livewire
+Photoshop
+Figma
